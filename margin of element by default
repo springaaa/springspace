@@ -10,6 +10,12 @@
           <p style="border:1px green solid;height:60%;">
            let me see where is the margin
           </p>
+         
+        </div>
+        <div style="height:auto;background:pink;">
+             <p style="height:50%;margin-top:2em;margin-bottom:2em;background:green;">
+             see whether i am larger than my parent element
+             </p>
         </div>
     </body>
     </html>
