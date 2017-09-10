@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+    <title>spring margin learning</title>
+    </head>
+    <body>
+        <div style="border:1px pink solid;height:auto;">
+          <p style="border:1px green solid;height:60%;">let me see where is the margin
+          </p>
+          <p style="border:1px green solid;height:60%;">
+           let me see where is the margin
+          </p>
+        </div>
+    </body>
+    </html>
